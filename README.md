@@ -10,3 +10,6 @@ How to open/play:
 
 - You can pause the game pressing "P"
 - Press Esc to close the app
+- Press M to turn off the music
+- Press "-" to reduce volume
+- Press "+" to increase volume
